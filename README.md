@@ -33,7 +33,7 @@ This dataset is ideal for binary classification problems.
 ### **1. Clone the Repository**
 Clone the repository to your local system:
 ```bash
-git clone https://github.com/your-username/Rock-vs-Mine-Prediction.git
+git clone https://github.com/nazifmhd/Rock-vs-Mine-Prediction.git
 cd Rock-vs-Mine-Prediction
 ````
 ### **2. Install Dependencies**
