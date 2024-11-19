@@ -13,7 +13,7 @@ This project demonstrates how to classify objects as either **Rock** or **Mine**
 ---
 
 ## **Project Structure**
-- **`Rock_vs_Mine.ipynb`:** Python notebook containing the implementation.
+- **`Rock_vs_Mine_Prediction.ipynb`:** Python notebook containing the implementation.
 - **`README.md`:** Project documentation.
 - **`requirements.txt`:** Python libraries required for the project (optional).
 
@@ -42,7 +42,7 @@ Clone the repository to your local system:
 pip install -r requirements.txt
 ```
 ### **3. Open and Run the Notebook**
-- Open the `Rock_vs_Mine.ipynb` file in Google Colaboratory or Jupyter Notebook.
+- Open the `Rock_vs_Mine_Prediction.ipynb` file in Google Colaboratory or Jupyter Notebook.
 - Upload the dataset if required.
 - Execute the notebook cells step-by-step to train and test the model.
 
